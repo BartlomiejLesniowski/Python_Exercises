@@ -1,3 +1,3 @@
-# DataSciencePortfolio
+# Python_Excercises
 
-A collection of my Data Science Projects
+A collection of my Python Excercises.
