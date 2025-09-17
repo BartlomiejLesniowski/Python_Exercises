@@ -1,5 +1,4 @@
 """
-
 You're building a program to calculate the electricity bill
 for a household. Write a program
 that calculates the total cost of electricity based

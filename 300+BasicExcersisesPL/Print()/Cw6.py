@@ -1,5 +1,4 @@
-"""Ćwiczenie 6
-
+"""
 You are building the e-commerce platform and you need to display product details to the user.
 Write a program that displays the product name, price, and availability status on the screen.
 

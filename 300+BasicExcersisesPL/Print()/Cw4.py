@@ -1,4 +1,4 @@
-"""Ćwiczenie 4
+"""
 Assign value 199.99 to variable price.
 
 Then print the following message to the console.

@@ -1,5 +1,4 @@
-"""Ćwiczenie 9
-
+"""
 Your task is to create a Python script. 
 You want the script to initially display the following information to the user:
 
@@ -10,7 +9,6 @@ You want the script to initially display the following information to the user:
 
 Use function print().
 The boundary lines consist of 40 '=' characters.
-
 
 """
 
