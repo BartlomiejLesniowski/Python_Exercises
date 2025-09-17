@@ -1,16 +1,10 @@
-"""Ćwiczenie 2
+"""
+Assign value 20 to the variable age. 
+Then print the following message to the console.
 
-Wykonaj poniższe kroki:
+    I am 20 years old.
 
-    przypisz do zmiennej age wartość 20
-
-    wykorzystując wartość zmiennej age wydrukuj do konsoli poniższą
-
-
-Oczekiwany wynik:
-
-
-    I am 20 years old."""
+"""
 
 age = 20
 

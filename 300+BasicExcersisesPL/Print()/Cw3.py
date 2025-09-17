@@ -1,16 +1,16 @@
-"""Utwórz dwie zmienne, które będą przechowywać odpowiednio poniższe ciągi znaków:
-
+"""
+Create two variables that will store the following strings, respectively:
     'Python'
     '3.10'
+You can choose variable names, but try to keep them consistent with what the variable stores.
 
+Then print the following message to the console.
 
-Nazwy zmiennych możesz dobrać dowolnie. 
-Postaraj się jednak, aby były spójne z tym co dana zmienna przechowuje. 
-Korzystając z utworzonych zmiennych oraz funkcji print() wydrukuj do konsoli poniższy tekst.
+    Learning Python 3.10.
 
-    Learning Python 3.10"""
+"""
 
 name = 'Python'
 version = '3.10'
 
-print(f'Learning {name} {version}')
+print(f'Learning {name} {version}.')

@@ -1,20 +1,17 @@
-"""Ćwiczenie 8
-
-Załóżmy, że twoim zadaniem jest utworzyć pewien skrypt w języku Python. Chcesz, aby na początku skrypt wyświetlił poniższą informację na temat wersji skryptu dla użytkownika:
-
+"""
+Create a script that displays version information to the user as given below. 
 
     ----------------------------------------
-    VERSION: 1.0.1
+    VERSION: 1.0.5
     ----------------------------------------
 
+Use function print().
+The boundary lines consist of 40 '-' characters.
 
-Zaimplementuj to rozwiązanie wykorzystując funkcję print().
+"""
 
-
-Wskazówka: Linie odgradzające składają się z 40 znaków '-'."""
-
-line = 40*'-'
-version = 'VERSION: 1.0.1'
+line = 40 * '-'
+version = 'VERSION: 1.0.5'
 
 print(line)
 print(version)

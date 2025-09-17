@@ -1,13 +1,10 @@
 """Ćwiczenie 4
+Assign value 199.99 to variable price.
 
-Do zmiennej price przypisz wartość 199.99. 
-Następnie wykorzystując tą zmienną wydrukuj do konsoli poniższy tekst.
-
-Oczekiwany wynik:
+Then print the following message to the console.
 
     The item costs $ 199.99.
 
-Zauważ, że w tym przypadku łączymy obiekt typu str z obiektem typu float.
 """
 
 price = 199.99
